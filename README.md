@@ -7,6 +7,10 @@ FLOWAID (Flow and Leakage Forecasting using Weather-Adaptive neural network for 
 The FLOWAID model utilizes five days of preceding water flow and weather data (including temperature, precipitation, specific and relative humidities, evaporation, and solar radiation) to generate dual output predictions, including water flow demands for the next 12 hours and corresponding leakage probability.
 
 
+Download the model and Jupyter-notebook from the following Dropbox link
+
+          https://www.dropbox.com/scl/fo/w9u44kwur2xpujzvnduge/AGkRDGGHUCt8WHG_9sUXM6Y?rlkey=f5vvw31wws7f2rn59ywwmzwre&dl=0
+
 Reference:
           
     Jawad Fayaz, Lauren McMillan, Vivian Cardenas, and Liz Varga (under review). “An Interpretable Unified Attention-Based Neural Network for Real-Time Weather-Adaptive Water Flow Forecasting and Leak Detection”
