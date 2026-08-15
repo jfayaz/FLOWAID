@@ -15,4 +15,4 @@ Download the model and Jupyter-notebook from the following Dropbox link
 
 Reference:
           
-    Jawad Fayaz, Lauren McMillan, Vivian Cardenas, and Liz Varga (under review). “An Interpretable Unified Attention-Based Neural Network for Real-Time Weather-Adaptive Water Flow Forecasting and Leak Detection”
+    Jawad Fayaz, Lauren McMillan, Vivian Cardenas, Liz Varga (2026). Real-time weather-adaptive water flow and leakage forecasting using an explainable unified deep neural network, Applied Soft Computing, Volume 195, 115061, ISSN 1568-4946, https://doi.org/10.1016/j.asoc.2026.115061.
